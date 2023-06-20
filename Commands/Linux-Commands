@@ -1,0 +1,24 @@
+
+1. pwd : is used to know which directory you are in, you can use it and it gives us the absolute path.
+
+2. ls : is used to know what files are in the directory you are in. we can use "ls-a" to see all hidden files.
+
+3. cd : is used to go to a directory. example "cd Downloads" and we can use cd only that will take us to the home directory, but if we press "cd .." we can go back to the folder before .
+
+4.mkdir : when we need to create a folder or a directory. rmdir can be used only when the it is empty.
+
+5. rm -r "directory name" to delete directories and will delite that the directory contains.
+
+6. touch : is used to create a file "touch new.txt"
+
+7. man : shows the manual pages of the command "man cd" " man touch-help"
+
+8. mv : used to move files through the command line and we also can use it to rename a file " mv old.txt new.txt"
+
+9. cp : used to copy files through the command line. it takes two arguments "the fisrt is the location of the file to be copied, the second is where to copy.
+ "cp new.text /home/carlos/downloads/"
+
+10. locate : is used to locate a file in linux System
+	"locate new.txt"
+
+11. echo text into a file 
